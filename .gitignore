@@ -1,0 +1,16 @@
+﻿data/*.csv
+src/data/*.csv
+outputs/models/*.pkl
+src/outputs/models/*.pkl
+outputs/test_predictions.csv
+src/outputs/test_predictions.csv
+outputs/alerts/*.csv
+src/outputs/alerts/*.csv
+logs/*.log
+src/logs/*.log
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+Thumbs.db
+.DS_Store

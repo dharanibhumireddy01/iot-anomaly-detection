@@ -1,0 +1,31 @@
+============================================================
+  IoT ANOMALY DETECTION — ALERT SUMMARY
+  Generated: 2026-05-06 17:41:42
+============================================================
+
+Total anomalies detected : 1,597
+  CRITICAL               : 1,597
+  WARNING                : 0
+  INFO                   : 0
+  Sensor clusters (bursts): 3
+
+Off-hours anomalies      : 45.5% of all alerts
+
+Most Affected Zones:
+  ZONE_C: 858 alerts
+  ZONE_A: 423 alerts
+  ZONE_B: 241 alerts
+
+Most Flagged Sensors:
+  SENSOR_036: 129 alerts
+  SENSOR_037: 112 alerts
+  SENSOR_033: 96 alerts
+  SENSOR_034: 94 alerts
+  SENSOR_040: 82 alerts
+
+CLUSTER ALERTS (sensor bursts):
+  SENSOR_006 (ZONE_A) — 5 anomalies at 2022-05-09 23:00:00
+  SENSOR_033 (ZONE_C) — 5 anomalies at 2022-05-10 19:00:00
+  SENSOR_048 (ZONE_D) — 5 anomalies at 2022-05-17 07:00:00
+
+============================================================
