@@ -1,6 +1,6 @@
 # IoT Sensor Anomaly & Fraud Pattern Detection
 
-![Tests](https://github.com/dharani-bhumireddy/iot-anomaly-detection/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/dharanibhumireddy01/iot-anomaly-detection/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Records](https://img.shields.io/badge/records-1%2C000%2C000%2B-orange)
 ![Accuracy](https://img.shields.io/badge/accuracy-94.6%25-green)
@@ -578,7 +578,7 @@ iot-anomaly-detection/
 ### Install
 
 ```bash
-git clone https://github.com/dharani-bhumireddy/iot-anomaly-detection.git
+git clone https://github.com/dharanibhumireddy01/iot-anomaly-detection.git
 cd iot-anomaly-detection
 pip install -r requirements.txt
 ```
