@@ -6,10 +6,6 @@
 ![Accuracy](https://img.shields.io/badge/accuracy-94.6%25-green)
 
 **Author:** Dharani Bhumireddy
-**MS Data Science** — University at Albany, SUNY · GPA 3.7
-**B.Tech ECE** — SCSVMV University · GPA 3.8
-**Contact:** dharanibhumireddy.ds@gmail.com
-**LinkedIn:** [linkedin.com/in/dharani-bhumireddy](https://linkedin.com/in/dharani-bhumireddy)
 
 ---
 
@@ -804,4 +800,3 @@ MIT License — free to use, modify, and distribute with attribution.
 *Built as part of a data science portfolio demonstrating end-to-end ML pipeline development,
 time-series anomaly detection, and production engineering practices.*
 
-*Author: Dharani Bhumireddy — MS Data Science, University at Albany, SUNY*
